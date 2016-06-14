@@ -1,0 +1,13 @@
+*.pyc
+.cache
+.idea
+dist
+slackclient.egg-info
+*.log
+env
+.tox
+*.un~
+0/
+tests/.cache
+.coverage
+.cache
